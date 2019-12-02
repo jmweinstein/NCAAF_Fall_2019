@@ -1,0 +1,11 @@
+id,homeTeam,homeScore,awayTeam,awayScore,lineProvider,overUnder,spread,formattedSpread
+401132973,Oregon,,Utah,,Bovada,,6.5,Utah -6.5
+401132974,Oklahoma,,Baylor,,Bovada,,-9.0,Oklahoma -9.0
+401132984,Appalachian State,,Louisiana,,Bovada,,-6.0,Appalachian State -6.0
+401132982,Central Michigan,,Miami (OH),,Bovada,,-6.5,Central Michigan -6.5
+401132980,Florida Atlantic,,UAB,,Bovada,,-7.5,Florida Atlantic -7.5
+401132976,Memphis,,Cincinnati,,Bovada,,-10.0,Memphis -10.0
+401132981,LSU,,Georgia,,Bovada,,-7.0,LSU -7.0
+401132979,Boise State,,Hawai'i,,Bovada,,-15.0,Boise State -15.0
+401132975,Clemson,,Virginia,,Bovada,,-28.5,Clemson -28.5
+401132983,Wisconsin,,Ohio State,,Bovada,,17,Ohio State -17
